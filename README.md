@@ -1,7 +1,7 @@
 wschpero.github.io
 ========
 
-Data for williamschpero.com. This website is:
+Code for williamschpero.com. This website is:
 
 * Based on the web design of [Jonathan McGlone](https://github.com/jmcglone/jmcglone.github.io).
 * Licensed under a Creative Commons Attribution 3.0 Unported License.
