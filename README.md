@@ -8,7 +8,7 @@ Code for williamschpero.com. This website is:
 * Built with Bootstrap 3.0.
 * Powered by Jekyll.
 
-**Note: Be sure to change the Google Analytics key in _includes/analytics.html if you fork this code for your website.**
+**Note: Be sure to change the Google Analytics key in `_includes/analytics.html` if you fork this code for your website.**
 
 ```html 
 <script>
