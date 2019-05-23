@@ -1,2 +1,8 @@
 permalink: /notes/:year/:month/:day/:title
 markdown: kramdown
+collections_dir: collections
+collections:
+  - commentary
+  - peer-reviewed
+  - work-in-progress
+  - posts
