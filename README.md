@@ -10,7 +10,7 @@ Code for [williamschpero.com](http://williamschpero.com). This website is:
 
 Be sure to change the Google Analytics key and site URL in `_includes/analytics.html` if you fork or otherwise use this code for your website.
 
-```html 
+```html
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -23,4 +23,4 @@ Be sure to change the Google Analytics key and site URL in `_includes/analytics.
 </script>
 ```
 
-You will also need to edit `_includes/head.html`, `_includes/header.html`, `about/index.html`, `publications/index.html`, `notes/atom.xml`, `notes/index.html`, `index.html`, `README.md`, and `CNAME` to be specific to you / your site, along with the CV in `cv/` and the image in `img/`.
+You will also need to edit `_includes/head.html`, `_includes/header.html`, `about/index.html`, `bio/index.html`, `research/index.html`, `notes/atom.xml`, `notes/index.html`, `index.html`, `README.md`, and `CNAME` to be specific to you / your site, along with the publication files included in `collections/`, the CV in `cv/`, and the image in `img/`.
