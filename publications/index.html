@@ -6,9 +6,9 @@ publications: active
 
 <div class="info">
 
-<p><h3><b>Working Papers</b></h3></p>
+<p><h3><b>Peer-Reviewed</b></h3></p>
 
-{% assign sorted = site.work-in-progress | sort: 'order' | reverse %}
+{% assign sorted = site.peer-reviewed | sort: 'order' | reverse %}
 {% for reference in sorted %}
 <p>
   {{ reference.authors }}.
@@ -53,9 +53,9 @@ publications: active
 {% endif %}
 {% endfor %}
 
-<p><h3><b>Peer-Reviewed</b></h3></p>
+<p><h3><b>Working Papers</b></h3></p>
 
-{% assign sorted = site.peer-reviewed | sort: 'order' | reverse %}
+{% assign sorted = site.work-in-progress | sort: 'order' | reverse %}
 {% for reference in sorted %}
 <p>
   {{ reference.authors }}.
