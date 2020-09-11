@@ -7,7 +7,7 @@ link: http://www.ncbi.nlm.nih.gov/pubmed/25373832
 journal: Journal of General Internal Medicine
 meta: 2015;30(2):221-228
 abstract: y
-coverage:
+coverage: <a href="https://jamanetwork.com/channels/health-forum/fullarticle/2760602" target="_blank"><i>JAMA</i> Forum</a>
 ---
 BACKGROUND: Specialty societies in the United States identified low-value tests and procedures that contribute to waste and poor health care quality via implementation of the American Board of Internal Medicine Foundation's Choosing Wisely initiative.
 
