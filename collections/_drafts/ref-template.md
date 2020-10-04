@@ -7,5 +7,6 @@ link:
 journal:
 meta:
 abstract:
+award:
 coverage:
 ---

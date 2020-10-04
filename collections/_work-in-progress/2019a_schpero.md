@@ -7,5 +7,6 @@ link:
 journal:
 meta:
 abstract:
+award: 2020 Annual Student Prize, International Health Economics Association
 coverage:
 ---
