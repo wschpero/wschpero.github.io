@@ -68,7 +68,7 @@ publications: active
 
 <p><h3><b>Working Papers</b></h3></p>
 
-{% assign sorted = site.work-in-progress | sort: 'order' | reverse %}
+{% assign sorted = site.working-papers | sort: 'order' | reverse %}
 {% for reference in sorted %}
 <p>
   {{ reference.authors }}.
