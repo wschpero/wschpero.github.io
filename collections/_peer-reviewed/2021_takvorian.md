@@ -7,6 +7,6 @@ link: https://pubmed.ncbi.nlm.nih.gov/34043298/
 journal: New England Journal of Medicine
 meta: 2021;384(21):1975-1978
 abstract: y
-coverage:
+coverage: <a href="https://www.medscape.com/viewarticle/965866" target="_blank">Medscape</a>
 ---
 Coverage of the "routine costs" associated with clinical trial participation will soon be guaranteed for Medicaid beneficiaries for the first time, which could help reduce inequities that compromise both the scientific process and access to new therapeutics.

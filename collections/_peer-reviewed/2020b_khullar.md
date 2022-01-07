@@ -7,7 +7,7 @@ link: https://pubmed.ncbi.nlm.nih.gov/32897345
 journal: JAMA
 meta: 2020;324(10):975-983
 abstract: y
-coverage: <a href="https://www.healthcaredive.com/news/doctors-affiliated-with-health-systems-have-much-higher-mips-scores-jama-s/584823/" target="_blank">Healthcare Dive</a>, <a href="https://jamanetwork.com/journals/jama/article-abstract/2770389" target="_blank"><i>JAMA</i></a>
+coverage: <a href="https://public-inspection.federalregister.gov/2021-14973.pdf" target="_blank">CMS Proposed Rule</a>, <a href="https://www.healthcaredive.com/news/doctors-affiliated-with-health-systems-have-much-higher-mips-scores-jama-s/584823/" target="_blank">Healthcare Dive</a>, <a href="https://jamanetwork.com/journals/jama/article-abstract/2770389" target="_blank"><i>JAMA</i></a>, <a href="https://www.medpagetoday.com/opinion/second-opinions/94255" target="_blank">MedPage Today</a>, <a href="https://www.modernhealthcare.com/opinion-editorial/its-time-measure-what-actually-matters-social-drivers-health" target="_blank">Modern Healthcare</a>
 ---
 Importance: The US Merit-based Incentive Payment System (MIPS) is a major Medicare value-based payment program aimed at improving quality and reducing costs. Little is known about how physicians' performance varies by social risk of their patients.
 
