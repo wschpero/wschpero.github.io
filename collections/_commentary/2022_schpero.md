@@ -3,7 +3,7 @@ target: 2022_schpero
 order: 4
 authors: <b>Schpero WL</b>, Ndumele CD
 title: "Medicaid Disenrollment After the COVID-19 Pandemic: Avoiding a New Crisis"
-link: https://jamanetwork.com/journals/jama-health-forum/fullarticle/2788765
+link: https://pubmed.ncbi.nlm.nih.gov/36218824/
 journal: JAMA Health Forum
 meta: 2022;3(2):e214743
 abstract: y
