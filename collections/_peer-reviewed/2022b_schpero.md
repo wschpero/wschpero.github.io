@@ -1,6 +1,6 @@
 ---
 target: 2022b_schpero
-order: 21
+order: 20
 authors: <b>Schpero WL</b>, Chatterjee P
 title: "Structural Racial Disparities in the Allocation of Disproportionate Share Hospital Payments"
 link: https://pubmed.ncbi.nlm.nih.gov/36331505/

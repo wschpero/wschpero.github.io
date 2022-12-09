@@ -1,6 +1,6 @@
 ---
 target: 2022_chatterjee
-order: 20
+order: 21
 authors: Chatterjee P, Sinha S, Reszczynski OG, Amin A, <b>Schpero WL</b>
 title: "Variation and Changes in the Targeting of Medicaid Disproportionate Share Hospital Payments to U.S. Hospitals"
 link: https://pubmed.ncbi.nlm.nih.gov/36469825/
