@@ -1,6 +1,6 @@
 ---
 target: 2022_brown-podgorski
-order: 6
+order: 7
 authors: Brown-Podgorski BL, Roberts ET, <b>Schpero WL</b>
 title: "Improving Medicaid Data to Advance Racial and Ethnic Health Equity in the United States"
 link: https://www.healthaffairs.org/do/10.1377/forefront.20220517.465853

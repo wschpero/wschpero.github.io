@@ -1,6 +1,6 @@
 ---
 target: 2022a_schpero
-order: 19
+order: 18
 authors: <b>Schpero WL</b>, Wiener T, Carter S, Chatterjee P
 title: "Lobbying Expenditures in the U.S. Health Care Industry, 2000-2020"
 link: https://pubmed.ncbi.nlm.nih.gov/36306120/
