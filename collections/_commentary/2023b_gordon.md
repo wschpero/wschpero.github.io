@@ -1,7 +1,7 @@
 ---
 target: 2023b_gordon
 order: 9
-authors: Gordon S, McConnell J, b>Schpero W</b>
+authors: Gordon S, McConnell J, <b>Schpero W</b>
 title: "Informing Medicaid Policy Through Better, More Usable Claims Data"
 link: https://www.commonwealthfund.org/blog/2023/informing-medicaid-policy-better-claims-data
 journal: The Commonwealth Fund Blog

@@ -1,7 +1,7 @@
 ---
 target: 2023a_gordon
 order: 8
-authors: Gordon S, Johnson A, Kennedy S, McConnell J, b>Schpero W</b>
+authors: Gordon S, Johnson A, Kennedy S, McConnell J, <b>Schpero W</b>
 title: "Catalyzing Medicaid Policy Research with T-MSIS Analytic Files (TAF): Learnings from Year 1 of the Medicaid Data Learning Network (MDLN)"
 link: https://academyhealth.org/publications/2023-06/catalyzing-medicaid-policy-research-t-msis-analytic-files-taf-learnings-year-1-medicaid-data-learning-network-mdln
 journal: AcademyHealth
