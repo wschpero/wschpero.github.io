@@ -2,7 +2,7 @@
 target: 2023_vohra
 order: 23
 authors: Vohra AS, Khullar D, Kaushal R, <b>Schpero WL</b>
-title: "Hospital Load Imbalance Across U.S. Hospital Markets During the COVID-19 Pandemic"
+title: "Many Intensive Care Units Were Overloaded While Nearby Hospitals Had Excess Capacity During The COVID-19 Pandemic"
 link: https://pubmed.ncbi.nlm.nih.gov/37406237/
 journal: Health Affairs
 meta: 2023;42(7):937–945
