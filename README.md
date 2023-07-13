@@ -8,7 +8,7 @@ Code for [williamschpero.com](http://williamschpero.com). This website is:
 * Built with [Bootstrap 3.0](http://getbootstrap.com).
 * Powered by [Jekyll](http://jekyllrb.com).
 
-Be sure to change the Google Analytics `TAG_ID' in `_includes/analytics.html` if you fork or otherwise use this code for your website.
+Be sure to change the Google Analytics `TAG_ID` in `_includes/analytics.html` if you fork or otherwise use this code for your website.
 
 ```html
 <!-- Google tag (gtag.js) -->
