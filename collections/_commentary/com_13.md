@@ -1,0 +1,26 @@
+---
+target: com_13
+order: 13
+authors: Yu J, Lin JJ, <b>Schpero W</b>, Andreadis K, Goytia C, Harle C, Horowitz C, Kaushal R, Khairat S, McDonnell CL, Mkuu R, Muellers KA, Poeran J, Weiner MG, Wu Y, Ancker JS
+title: "Safeguarding Research Using Federal Health Insurance Data"
+link: https://pubmed.ncbi.nlm.nih.gov/38717760/
+journal: Patient-Centered Outcomes Research Institute (PCORI)
+meta: 2024
+abstract: y
+coverage: 
+---
+Background: In spring 2020, the COVID-19 public health emergency prompted widespread and rapid adoption of telemedicine in primary care in the United States.
+
+Objectives: Our study (ClinicalTrials.gov identifier NCT04684836) aimed (1) to explore how primary care practices implemented telemedicine during the pandemic, (2) to understand patients’ and clinicians’ experiences of telemedicine, (3) to estimate the comparative effectiveness of primary care telemedicine vs in-person care on avoidable health care utilization and continuity of care for patients with chronic conditions, and (4) to assess the impact on health disparities for these quantitative outcomes.
+
+Methods:
+• We conducted a survey study among primary care practice leaders in 3 states.
+• We conducted in-depth qualitative interviews of a diverse sample of patients and clinicians in 3 states.
+• We conducted a retrospective cohort study using claims data and a difference-in-difference analytic framework.
+• We stratified analyses of the retrospective cohort study by race, ethnicity, and rurality. Studies focused on adult patients with 1 or more of 5 chronic conditions of interest: heart failure, chronic obstructive pulmonary disease, asthma, diabetes, and hypertension. Our primary outcome measures were avoidable emergency department (ED) admissions and potentially preventable hospital admissions. Secondary measures examined were all-cause hospitalizations and continuity of care measures, including the Bice-Boxerman and Usual Provider of Care indices.
+
+Results: (1) Practices with previous telemedicine experience reported greater ease in ramping up telemedicine services during the pandemic. (2) Patients reported diverse experiences with telemedicine both positive (eg, improved access to care) and negative (eg, impacts on communication quality). Health care professionals appreciated insight into patients’ home lives but often felt burdened by logistical, financial, and training barriers. (3) We did not find evidence that telemedicine was superior to in-person care for reducing preventable hospitalizations (0.001 hospitalizations per patient-quarter [95% CI, −0.001 to 0.004]) or avoidable ED visits (−0.002 ED visits per patient-quarter [95% CI, −0.01 to 0.01]). (4) No differences in preventable hospitalizations or avoidable ED visits were found within patient subgroups examined (urban or rural; high or low burden of illness; by race or ethnicity; above or below median income). Subgroup analyses were conducted to assess continuity of care within certain patient subgroups: patients who were not dually eligible for health insurance (Bice-Boxerman Index per patient-quarter, 0.01 [95% CI, 0.003-0.02]), patients living in metropolitan areas (Bice-Boxerman Index, 0.01 [95% CI, 0.003-0.02]), patients with 4 or more chronic conditions (Bice-Boxerman Index, 0.01 [95% CI, 0.003-0.02]), Hispanic patients (Bice- Boxerman Index, 0.03 [95% CI, 0.003-0.02]), and non-Hispanic White patients (Bice-Boxerman Index, 0.01 [95% CI, 0.003-0.01]).
+
+Conclusions: This study did not find evidence that patients with 5 prespecified chronic conditions seen in high-telemedicine practices vs low-telemedicine practices differed in preventable hospitalizations or avoidable ED visits. Patient and clinician concerns about improving the telemedicine experience suggest advances continue to be needed for this modality to be broadly accepted.
+
+Limitations: We originally planned for this project to involve data and surveys with 250 practices and their patients but had to reduce the sample size to 140 practices and their patients. In the first aim, we planned to interview representatives of 140 practices but were able to interview 33 representatives who provided information about 100 practices. In our second aim, we assigned each patient to a single practice and compared patients in all practices above and below the median proportion of telemedicine visits. Some patients attended multiple clinics yet were assigned to only 1 of them. Many clinics assigned to the high- and low- telemedicine groups provided similar proportions of telemedicine and in-person visits. Because there was limited contrast between the high- and low-telemedicine groups, we might not have been able to detect a difference between telemedicine and in-person care even if one were present. These studies were conducted during and after the COVID-19 public health emergency and during a time of rapid adoption of telemedicine as a novel modality of care. These studies included participants and data from the east and southeast United States and were limited to the care of adult patients with chronic medical conditions.
