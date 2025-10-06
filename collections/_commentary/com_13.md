@@ -2,8 +2,8 @@
 target: com_13
 order: 13
 authors: Yu J, Lin JJ, <b>Schpero W</b>, Andreadis K, Goytia C, Harle C, Horowitz C, Kaushal R, Khairat S, McDonnell CL, Mkuu R, Muellers KA, Poeran J, Weiner MG, Wu Y, Ancker JS
-title: "Safeguarding Research Using Federal Health Insurance Data"
-link: https://pubmed.ncbi.nlm.nih.gov/38717760/
+title: "Evaluating the Comparative Effectiveness of Telemedicine in Primary Care: Learning from the COVID-19 Pandemic"
+link: https://www.pcori.org/sites/default/files/Kaushal522-Final-Research-Report.pdf
 journal: Patient-Centered Outcomes Research Institute (PCORI)
 meta: 2024
 abstract: y
