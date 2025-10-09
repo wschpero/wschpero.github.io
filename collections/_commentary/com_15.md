@@ -1,11 +1,11 @@
 ---
 target: com_15
 order: 15
-authors: Budhu JA, Cleopatra E, <b>Schpero W</b>, Civelek Y, Au L, Gany FM
+authors: Budhu JA, Cleopatra E, <b>Schpero WL</b>, Civelek Y, Au L, Gany FM
 title: "Emergency Medicaid at Risk — Preserving State Authority and Access to Care"
-link: https://www.nejm.org/doi/full/10.1056/NEJMp2508944
+link: https://pubmed.ncbi.nlm.nih.gov/41051095/
 journal: New England Journal of Medicine
-meta: 2025
+meta: 2025;393(14):1356-1358
 abstract: y
 coverage: 
 ---
